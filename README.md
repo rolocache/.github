@@ -72,9 +72,15 @@ These records are updated regularly to ensure the most current information is av
 RoloCache is built to be queried, not browsed.
 
 - **Site:** [www.rolocache.com](https://www.rolocache.com)
-- **MCP server (SSE):** `https://www.rolocache.com/mcp/sse`
+- **MCP server:** `https://www.rolocache.com/mcp/`
 - **REST lookup:** `GET https://www.rolocache.com/agent-tools/v1/lookup`
 - **Agent docs:** [www.rolocache.com/for-agents](https://www.rolocache.com/for-agents)
 - **Vendor index:** [www.rolocache.com/vendors](https://www.rolocache.com/vendors)
 
 ---
+
+## For Businesses
+
+If your business is listed here it was deliberately added to the index by a human. If our records are incorrect or you have any questions, [contact us here](https://www.rolocache.com/report-an-issue).
+
+If your business is not listed and you would like to be, [contact us here](https://www.rolocache.com/report-an-issue).
